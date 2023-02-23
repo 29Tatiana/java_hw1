@@ -1,0 +1,601 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"229a60c0-3916-4cf0-b5de-729dfe462f65\" name=\"Changes\" comment=\"\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"importingSettings\">\r\n      <MavenImportingSettings>\r\n        <option name=\"workspaceImportEnabled\" value=\"true\" />\r\n      </MavenImportingSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Kg5uC1SGlgYAPFx2hb7ZXvHbrE\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"229a60c0-3916-4cf0-b5de-729dfe462f65\" name=\"Changes\" comment=\"\" />\r\n      <created>1674383617881</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674383617881</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/.idea/workspace.xml	(date 1677180063899)
+@@ -1,12 +1,52 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
++  <component name="AutoImportSettings">
++    <option name="autoReloadType" value="SELECTIVE" />
++  </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="229a60c0-3916-4cf0-b5de-729dfe462f65" name="Changes" comment="" />
++    <list default="true" id="229a60c0-3916-4cf0-b5de-729dfe462f65" name="Changes" comment="sem4_hw">
++      <change afterPath="$PROJECT_DIR$/src/main/java/sem6/Main.java" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/main/java/sem6/Notebooks.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/sem1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem1/Main.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/main/java/sem2_hw/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem2_hw/Main.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+   </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="main" />
++      </map>
++    </option>
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="HighlightingSettingsPerFile">
++    <setting file="file://$PROJECT_DIR$/src/main/java/sem3_hw/Main.java" root0="SKIP_INSPECTION" />
++  </component>
++  <component name="MarkdownSettingsMigration">
++    <option name="stateVersion" value="1" />
++  </component>
+   <component name="MavenImportPreferences">
+     <option name="importingSettings">
+       <MavenImportingSettings>
+@@ -14,18 +54,107 @@
+       </MavenImportingSettings>
+     </option>
+   </component>
++  <component name="ProblemsViewState">
++    <option name="selectedTabId" value="CurrentFile" />
++  </component>
+   <component name="ProjectId" id="2Kg5uC1SGlgYAPFx2hb7ZXvHbrE" />
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectViewState">
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
++  },
++  &quot;keyToStringList&quot;: {
++    &quot;ChangesTree.GroupingKeys&quot;: [
++      &quot;directory&quot;,
++      &quot;module&quot;
++    ]
+   }
+-}]]></component>
++}</component>
++  <component name="RunManager" selected="Application.Main">
++    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sem6.Main" />
++      <module name="sem1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="sem6.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sem4_hw.Main4" />
++      <module name="sem1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="sem4_hw.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sem5.ex1" />
++      <module name="sem1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="sem5.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sem5.ex2" />
++      <module name="sem1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="sem5.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="sem5.ex3" />
++      <module name="sem1" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="sem5.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.Main" />
++        <item itemvalue="Application.ex3" />
++        <item itemvalue="Application.ex2" />
++        <item itemvalue="Application.ex1" />
++        <item itemvalue="Application.Main4" />
++      </list>
++    </recent_temporary>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -35,6 +164,91 @@
+       <option name="presentableId" value="Default" />
+       <updated>1674383617881</updated>
+     </task>
++    <task id="LOCAL-00001" summary="sem2">
++      <created>1675014432140</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1675014432141</updated>
++    </task>
++    <task id="LOCAL-00002" summary="sem2">
++      <created>1675014462008</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1675014462008</updated>
++    </task>
++    <task id="LOCAL-00003" summary="sem2r">
++      <created>1675014534002</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1675014534002</updated>
++    </task>
++    <task id="LOCAL-00004" summary="sem3_hw">
++      <created>1675288239957</created>
++      <option name="number" value="00004" />
++      <option name="presentableId" value="LOCAL-00004" />
++      <option name="project" value="LOCAL" />
++      <updated>1675288239957</updated>
++    </task>
++    <task id="LOCAL-00005" summary="sem3_hw">
++      <created>1675288375394</created>
++      <option name="number" value="00005" />
++      <option name="presentableId" value="LOCAL-00005" />
++      <option name="project" value="LOCAL" />
++      <updated>1675288375394</updated>
++    </task>
++    <task id="LOCAL-00006" summary="sem4_hw">
++      <created>1676296745440</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1676296745441</updated>
++    </task>
++    <task id="LOCAL-00007" summary="sem4_hw">
++      <created>1676802905742</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1676802905742</updated>
++    </task>
++    <option name="localTasksCounter" value="8" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="CUSTOM_BOOLEAN_PROPERTIES">
++                <map>
++                  <entry key="Show.Git.Branches" value="true" />
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="sem2" />
++    <MESSAGE value="sem2r" />
++    <MESSAGE value="sem3_hw" />
++    <MESSAGE value="sem4_hw" />
++    <option name="LAST_COMMIT_MESSAGE" value="sem4_hw" />
++  </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <line-breakpoint enabled="true" type="java-line">
++          <url>file://$PROJECT_DIR$/src/main/java/sem1/Main.java</url>
++          <line>30</line>
++          <option name="timeStamp" value="2" />
++        </line-breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
+ </project>
+\ No newline at end of file
+Index: src/main/java/sem6/Notebooks.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/sem6/Notebooks.java b/src/main/java/sem6/Notebooks.java
+new file mode 100644
+--- /dev/null	(date 1677178742053)
++++ b/src/main/java/sem6/Notebooks.java	(date 1677178742053)
+@@ -0,0 +1,25 @@
++package sem6;
++
++public class Notebooks {
++    Double diagonal;
++    String os;
++    Integer ozu;
++    Integer ssd;
++    String color;
++    Integer price;
++    public Notebooks(Double diagonal, String os, Integer ozu, Integer ssd, String color, Integer price) {
++        this.diagonal = diagonal;
++        this.os = os;
++        this.ozu = ozu;
++        this.ssd = ssd;
++        this.color = color;
++        this.price = price;
++    }
++
++    public String toString() {
++        return String.format("%.1f, %s, %d, %d, %s, %d",diagonal, os, ozu, ssd, color, price);
++    }
++}
++
++
++
+Index: src/main/java/org/example/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package org.example;public class Main {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Hello world!\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/org/example/Main.java b/src/main/java/org/example/Main.java
+--- a/src/main/java/org/example/Main.java	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/src/main/java/org/example/Main.java	(date 1674383685052)
+@@ -1,4 +1,6 @@
+-package org.example;public class Main {
++package org.example;
++
++public class Main {
+     public static void main(String[] args) {
+         System.out.println("Hello world!");
+     }
+Index: src/main/java/sem6/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/sem6/Main.java b/src/main/java/sem6/Main.java
+new file mode 100644
+--- /dev/null	(date 1677180402358)
++++ b/src/main/java/sem6/Main.java	(date 1677180402358)
+@@ -0,0 +1,135 @@
++package sem6;
++
++import java.util.*;
++
++public class Main {
++    public static void main(String[] args) {
++        Map<Integer, LinkedHashMap> database = new HashMap<>();
++        Integer id = 1;
++        Notebooks notebook1 = new Notebooks(15.6, "Windows 10", 8, 256, "black", 65999);
++        Notebooks notebook2 = new Notebooks(14.6, "Linux 11", 16, 1024, "silver", 85666);
++        Notebooks notebook3 = new Notebooks(14.0, "MacOs",
++                16, 512, "gold", 101888);
++        Notebooks notebook4 = new Notebooks(15.0, "Windows 10", 4, 256, "white", 61780);
++        Notebooks notebook5 = new Notebooks(15.6, "MacOs", 8, 256, "silver", 95890);
++        Notebooks notebook6 = new Notebooks(14.6, "Windows 8", 8, 128, "black", 45890);
++        addNotebookInDataBase(database, notebook1, id);
++        id++;
++        addNotebookInDataBase(database, notebook2, id);
++        id++;
++        addNotebookInDataBase(database, notebook3, id);
++        id++;
++        addNotebookInDataBase(database, notebook4, id);
++        id++;
++        addNotebookInDataBase(database, notebook5, id);
++        id++;
++        addNotebookInDataBase(database, notebook6, id);
++        System.out.println(database);
++        System.out.println();
++
++        searchNb(database);
++    }
++
++    public static Map addNotebookInDataBase(Map spisok, Notebooks nb, Integer newId) {
++        ArrayList<String> newNb = new ArrayList<>(Arrays.asList(nb.toString().split(", ")));
++        Map<String, String> info = new LinkedHashMap<String, String>();
++        String[] infoName = {"diagonal", "os", "ozu", "ssd", "color", "price"};
++        Integer i = 0;
++        for (String str : newNb) {
++            info.put(infoName[i], str);
++            i++;
++        }
++        spisok.put(newId, info);
++        return spisok;
++    }
++
++    public static void searchNb(Map spisok) {
++        Double findDiag = 0.0;
++        Integer findOzu = 0;
++        Integer findSsd = 0;
++        String findColor = "none";
++        Integer findPrice = 0;
++        Map searchCriterii = new HashMap<>();
++        searchCriterii.put("diagonal", findDiag);
++        searchCriterii.put("ozu", findOzu);
++        searchCriterii.put("ssd", findSsd);
++        searchCriterii.put("color", findColor);
++        searchCriterii.put("price", findPrice);
++        Map searchCriteriiZero = new HashMap<>();
++        searchCriteriiZero.putAll(searchCriterii);
++
++        Scanner input = new Scanner(System.in, "cp866");
++
++        while (true) {
++            System.out.print("Критерии поиска: ");
++            System.out.println(searchCriterii);
++            System.out.println("Веберите критерий для поиска:\n" +
++                    "1 - диагональ (минимальное значение)\n" +
++                    "2 - ozu (минимальное значение)\n" +
++                    "3 - ssd (минимальное значение)\n" +
++                    "4 - цвет\n" +
++                    "5 - цена (минимальное значение)\n" +
++                    "result - вывести список согласно фильтра\n" +
++                    "clear - сбросить фильтр\n" +
++                    "close - для выхода из поиска");
++            String comand = input.next();
++            switch (comand) {
++                case "close":
++                    input.close();
++                    System.exit(1);
++                case "1":
++                    System.out.println("Введите диагональ");
++                    findDiag = input.nextDouble();
++                    searchCriterii.put("diagonal", findDiag);
++                    break;
++                case "2":
++                    System.out.println("Введите ozu");
++                    findOzu = input.nextInt();
++                    searchCriterii.put("ozu", findOzu);
++                    break;
++                case "3":
++                    System.out.println("Введите ssd");
++                    findSsd = input.nextInt();
++                    searchCriterii.put("ssd", findSsd);
++                    break;
++                case "4":
++                    System.out.println("Введите цвет");
++                    findColor = input.next();
++                    searchCriterii.put("color", findColor);
++                    break;
++                case "5":
++                    System.out.println("Введите стоимость");
++                    findPrice = input.nextInt();
++                    searchCriterii.put("price", findPrice);
++                    break;
++                case "result":
++                    boolean temp = false;
++                    for (int index = 1; index <= spisok.size(); index++) {
++                        if (Double.parseDouble(((String) ((Map) spisok.get(index)).get("diagonal")).replace(",", ".")) >= findDiag || findDiag == 0.0) {
++                            if (Integer.parseInt(((String) ((Map) spisok.get(index)).get("ozu"))) >= findOzu || findOzu == 0) {
++                                if (Integer.parseInt(((String) ((Map) spisok.get(index)).get("ssd"))) >= findSsd || findSsd == 0) {
++                                    if ((((Map) spisok.get(index)).get("color").equals(findColor)) || findColor == "none") {
++                                        if (Integer.parseInt(((String) ((Map) spisok.get(index)).get("price"))) >= findOzu || findOzu == 0) {
++                                            System.out.println(spisok.get(index));
++                                            temp = true;
++                                        }
++                                    }
++                                }
++                            }
++                        }
++                    }
++                    if (!temp) {
++                        System.out.println("Нет ноутбуков удовлетворяющих критериям");
++                    }
++                    break;
++                case "clear":
++                    searchCriterii.putAll(searchCriteriiZero);
++                default:
++                    System.out.println("Неверно введены данные");
++                    break;
++            }
++        }
++    }
++}
++
++
+Index: src/main/java/sem1/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package sem1;public class Main {\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/sem1/Main.java b/src/main/java/sem1/Main.java
+--- a/src/main/java/sem1/Main.java	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/src/main/java/sem1/Main.java	(date 1674388892929)
+@@ -1,2 +1,43 @@
+-package sem1;public class Main {
++package sem1;
++
++import java.util.Arrays;
++import java.util.Random;
++import java.util.Scanner;
++
++public class Main {
++    public static void main(String[] args) {
++        ex2();
++        ex1();
++    }
++
++    private static void ex1() {
++            Scanner iScanner = new Scanner(System.in);
++            System.out.print("Имя: ");
++            String name = iScanner.nextLine();
++            System.out.printf("Привет, %s!%n", name);
++            iScanner.close();
++        }
++
++    private static void ex2()   {
++        int[] binaryArray = new int[1000];
++        int counter = 0;
++        int maxLength = 0;
++        Random random = new Random();
++
++        for (int i = 0; i < binaryArray.length; i++) {
++            binaryArray[i] = random.nextInt(2);
++
++        }
++  //      System.out.println(Arrays.toString(binaryArray));
++        for (int num:binaryArray) {
++          if (num==1)  {
++              counter++;
++          }
++          else {
++              maxLength= Math.max(counter, maxLength);
++              counter = 0;
++          }
++        }
++        System.out.println("max length:" + Math.max(counter, maxLength));
++    }
+ }
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_17\" default=\"true\" project-jdk-name=\"corretto-17\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/.idea/misc.xml	(date 1674383706852)
+@@ -1,6 +1,13 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ExternalStorageConfigurationManager" enabled="true" />
++  <component name="MavenProjectsManager">
++    <option name="originalFiles">
++      <list>
++        <option value="$PROJECT_DIR$/pom.xml" />
++      </list>
++    </option>
++  </component>
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="corretto-17" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\r\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\r\n    <modelVersion>4.0.0</modelVersion>\r\n\r\n    <groupId>org.example</groupId>\r\n    <artifactId>sem1</artifactId>\r\n    <version>1.0-SNAPSHOT</version>\r\n\r\n    <properties>\r\n        <maven.compiler.source>17</maven.compiler.source>\r\n        <maven.compiler.target>17</maven.compiler.target>\r\n        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>\r\n    </properties>\r\n    \r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+--- a/pom.xml	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/pom.xml	(date 1674383684516)
+@@ -13,5 +13,5 @@
+         <maven.compiler.target>17</maven.compiler.target>
+         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+     </properties>
+-    
++
+ </project>
+\ No newline at end of file
+Index: src/main/java/sem2_hw/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package sem2_hw;\r\nimport java.util.Scanner;\r\nimport java.io.*;\r\n\r\npublic class Main {\r\n    public static void main(String[] args) {\r\n        ex1();\r\n        ex2();\r\n    }\r\n\r\n    private static void ex1() {\r\n        Scanner input = new Scanner(System.in);\r\n        System.out.println(\"Введите строку: \");\r\n        String str = input.next();\r\n        input.close();\r\n\r\n        String new_str = new StringBuilder(str).reverse().toString();\r\n\r\n        if (new_str.equals(str)) {\r\n            System.out.printf(\"Строка %s является палиндромом\", str);\r\n        } else {\r\n            System.out.printf(\"Строка %s не является палиндромом\", str);\r\n        }\r\n    }\r\n\r\n    private static void ex2() {\r\n        writeFile();\r\n    }\r\n\r\n    private static void writeFile() {\r\n        String testString = \"TEST\".repeat(100);\r\n        try (PrintWriter pw = new PrintWriter(\"src/main/resources/text.txt\")) {\r\n            pw.write(testString);\r\n            pw.close();\r\n            System.out.println(\"Запись добавлена\");\r\n        } catch (FileNotFoundException e) {\r\n            e.printStackTrace();\r\n            System.out.println(\"Запись не работает\");\r\n        }\r\n\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/sem2_hw/Main.java b/src/main/java/sem2_hw/Main.java
+--- a/src/main/java/sem2_hw/Main.java	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/src/main/java/sem2_hw/Main.java	(date 1675020653473)
+@@ -39,4 +39,5 @@
+         }
+ 
+     }
+-}
+\ No newline at end of file
++}
++
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>target/\r\n!.mvn/wrapper/maven-wrapper.jar\r\n!**/src/main/**/target/\r\n!**/src/test/**/target/\r\n\r\n### IntelliJ IDEA ###\r\n.idea/modules.xml\r\n.idea/jarRepositories.xml\r\n.idea/compiler.xml\r\n.idea/libraries/\r\n*.iws\r\n*.iml\r\n*.ipr\r\n\r\n### Eclipse ###\r\n.apt_generated\r\n.classpath\r\n.factorypath\r\n.project\r\n.settings\r\n.springBeans\r\n.sts4-cache\r\n\r\n### NetBeans ###\r\n/nbproject/private/\r\n/nbbuild/\r\n/dist/\r\n/nbdist/\r\n/.nb-gradle/\r\nbuild/\r\n!**/src/main/**/build/\r\n!**/src/test/**/build/\r\n\r\n### VS Code ###\r\n.vscode/\r\n\r\n### Mac OS ###\r\n.DS_Store
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision 6cb8bfab2c8e784c2b8577a0f81bb4290b4fa3c8)
++++ b/.gitignore	(date 1674419614922)
+@@ -11,6 +11,7 @@
+ *.iws
+ *.iml
+ *.ipr
++.idea
+ 
+ ### Eclipse ###
+ .apt_generated
